@@ -2,7 +2,7 @@
 
 <!-- Hero Animated Terminal Banner -->
 <a href="https://github.com/probala18">
-  <img src="assets/profile-banner.svg" alt="Balasundar Terminal Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/probala18/probala18/main/assets/profile-banner.svg" alt="Balasundar Terminal Banner" width="100%" />
 </a>
 
 <br/>
@@ -175,7 +175,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/probala18/probala18/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/probala18/probala18/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man Contribution Activity Graph" src="assets/pacman-contribution-graph-dark.svg" width="100%" />
+    <img alt="Pac-Man Contribution Activity Graph" src="https://raw.githubusercontent.com/probala18/probala18/main/assets/pacman-contribution-graph-dark.svg" width="100%" />
   </picture>
 </div>
 
